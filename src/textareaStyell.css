@@ -1,0 +1,12 @@
+
+.textareaStyell{
+    position: absolute;
+    left: 200px;
+    top: 100px;
+    resize:none;
+    
+} 
+.ulStyle{
+    position: absolute;
+    left: -43px;
+}
